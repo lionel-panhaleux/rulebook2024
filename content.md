@@ -1290,6 +1290,9 @@ prey getting the first opportunity to block.
 A minion can attempt to block as many times as they wish as long as
 another minion is not already blocking.
 
+If a blocking minion becomes ineligible (eg. locks or goes to torpor),
+their block attempt fails.
+
 If one attempt to block fails, another can be made as often as the
 blocking Methuselah wishes.
 
